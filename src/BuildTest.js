@@ -1,3 +1,4 @@
+Promise.resolve();
 console.log("Hi");
 (async function(params) {
     await foo();
