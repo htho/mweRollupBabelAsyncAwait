@@ -1,6 +1,6 @@
-# Minimal Working Example fpr Rollup + Babel with async/await
+# Minimal Working Example for Rollup + Babel with async/await
 
-This should become a minimal working example for JavaScript bundling with rollup and babel where async/await is correctly transpiled, to becompatible with IE11
+This should become a minimal working example for JavaScript bundling with rollup and babel where async/await is correctly transpiled, to be compatible with IE11
 
 Right now it does not work.
 I hope to work it out with the creators of [rollup](https://github.com/rollup/rollup) and [rollup-plugin-babel](https://github.com/rollup/rollup-plugin-babel).
