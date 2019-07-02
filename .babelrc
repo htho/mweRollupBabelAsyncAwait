@@ -1,5 +1,13 @@
 {
-    "presets": [
-      ["@babel/env", {"modules": false}]
+  "presets": [
+    [
+      "@babel/env",
+      {
+        "modules": false,
+        "useBuiltIns": "usage",
+        "corejs": 3,
+        "targets": "ie 11"
+      }
     ]
-  }
+  ]
+}
