@@ -20,7 +20,7 @@ $ ./node_modules/.bin/rollup -c
 # start a server
 $ ./node_modules/.bin/http-server -p 8080
 
-# visit http://localhost/http-server:8080/BuildTest.html
+# visit http://localhost:8080/BuildTest.html
 # check if "Hi" and "foo" is printed to your console.
 ```
 
